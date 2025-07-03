@@ -1,6 +1,21 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
 
-I am Sukand V M but you can call me WyrmyCrawl! Technology has always interested me, and so I set on a journey to grind and build up my tech muscles. I work primarily on AI and deep learning models with a special interest in bridging AI and video games. I have worked on Unity too. TensorFlow and Keras are some of the tools I work with and recently I used smolagents, an AI agent framework designed by HuggingFace. Hope you have fun exploring my repositories and feel free to contribute.
+## 🙂 About Me
+
+Hey there! I'm **Sukand V M**, but around the digital block, I go by **WyrmyCrawl** 🐉  
+I'm currently pursuing my **B.Tech in Computer Science and Engineering** at *Amrita Vishwa Vidyapeetham*.
+
+💡 I’m deeply passionate about **AI, Deep Learning**, and all things **problem-solving** — whether it's debugging code or cracking puzzles.
+
+🎮 With a love for both **intelligent systems** and **interactive media**, I’m particularly excited about building smart AI agents for **video games**. Think smolagents, but with big brains 😄
+
+🧠 When I'm not training models or tweaking Unity scenes, I’m:
+- Exploring video games as a medium for art
+- Watching **Video Essays** about current affairs.  
+- Or just poking around with the latest tech
+
+Let’s build something cool together!
+
 
 ---
 
@@ -15,7 +30,6 @@ I am Sukand V M but you can call me WyrmyCrawl! Technology has always interested
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🧠 Frameworks & Libraries
 
