@@ -33,13 +33,12 @@ I am Sukand V M but you can call me WyrmyCrawl! Technology has always interested
 <p>
   <p>
   <img alt="Google Cloud" src="https://img.icons8.com/color/48/google-cloud.png" width="50" height="50"/>
-  <img alt="Unity" src="https://img.icons8.com/ios-filled/50/unity.png" width="50" height="50"/>
-  <img alt="Git" src="https://img.icons8.com/ios-filled/50/git.png" height="50" width="50">
-  <img alt="GitHub" src="https://img.icons8.com/ios-filled/50/github.png" width="50" height="50">
+  <img alt="Unity" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="50" height="50"/>
+  <img alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height=50 width=50>
+  <img alt="GitHub" src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width=50 height=50>
   <img alt="VS Code" src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png" height="50" width="50">
-  <img alt="Jupyter" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-jupyter-a-programming-language-and-free-software-from-the-scientific-community-soft-fill-soft-fill-juicy-fish.png" height="50" width="50">
-  <img alt="Anaconda" src="https://img.icons8.com/color/48/anaconda--v2.png" height="50" width="50">
-  <img alt="Docker" src="https://img.icons8.com/fluency/48/docker.png" height="50" width="50">
+  <img alt="Jupyter" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" height=50 width=50>
+  <img alt="Anaconda" src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" height=50 width=50>
 </p>
 
 </p>
