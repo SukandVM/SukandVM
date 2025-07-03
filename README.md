@@ -26,7 +26,7 @@ I am Sukand V M but you can call me WyrmyCrawl! Technology has always interested
 
 ### 🧠 My LeetCode Profile
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sukandvm&theme=dark)](https://leetcode.com/sukandvm)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=WyrmishCrawl&theme=dark)](https://leetcode.com/WyrmishCrawl)
 
 
 <!--
